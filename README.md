@@ -13,4 +13,4 @@ For ease of access for users of all types a web interface would serve well. Rend
 
 A proof of concept is necessary to show multiplayer access capability on a 3D board with multiple users connecting from different networks.
 
-<iframe width="1503" height="918" src="https://xd.adobe.com/embed/03da9373-390e-4709-b9ae-9903479b5f3c-5689/?fullscreen" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="455" src="https://xd.adobe.com/embed/03da9373-390e-4709-b9ae-9903479b5f3c-5689/?fullscreen" frameborder="0" allowfullscreen></iframe>
